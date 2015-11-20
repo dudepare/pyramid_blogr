@@ -1,0 +1,4 @@
+setuptools-18.5.zip
+*.pyc
+*.sqlite
+pyramid_blogr.egg-info

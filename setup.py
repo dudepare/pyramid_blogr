@@ -13,8 +13,6 @@ requires = [
     'pyramid_tm',
     'SQLAlchemy==1.0.9',
     'transaction',
-    'pyramid_tm',
-    'pyramid_debugtoolbar',
     'zope.sqlalchemy',
     'waitress',
     'wtforms==2.0.2',

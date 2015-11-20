@@ -1,5 +1,5 @@
 import datetime
-from meta import Base
+from .meta import Base
 from sqlalchemy import (
 	Column,
 	Integer,
